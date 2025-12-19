@@ -472,9 +472,9 @@ SOFTWARE.
 ## 👥 Authors and Acknowledgments
 
 ### Project Team
-- **Developer**: [Anupa Jacob]
+- **Developer**: Anupa Jacob
 - **Course**: Data Science
-- **Institution**: [Masterschool]
+- **Institution**: Masterschool
 
 ### Special Thanks
 - Ames Housing Dataset creators
